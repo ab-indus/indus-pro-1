@@ -1,0 +1,30 @@
+.form-control {
+    color: rgb(142, 226, 149) !important; 
+    /* caret-color: red; */
+
+  }
+  /* .card-description {
+    color: rgb(142, 226, 149) !important; 
+  } */
+
+  /* .form-control label:after {
+    color: #e32 !important;
+    content: ' *' !important;
+    display:inline !important;
+} */
+/* .col-form-label::after{
+  color: #e32 !important;
+  content:' *'!important;
+  display:inline !important;
+} */
+
+  /* input:required{
+  border-color: red !important;
+} */
+/* input:valid {
+  border-color: rgb(57, 115, 146) !important;
+  color:white;
+} */
+/* input:invalid {
+  border-color: red !important;
+} */
